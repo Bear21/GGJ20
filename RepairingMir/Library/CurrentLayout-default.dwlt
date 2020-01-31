@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 950, y: 544}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -47,7 +47,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 494}
   m_MaxSize: {x: 14004, y: 14044}
   vertical: 0
-  controlID: 89
+  controlID: 88
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -149,7 +149,7 @@ MonoBehaviour:
     y: 0
     width: 1680
     height: 967
-  m_MinSize: {x: 950, y: 544}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -337,20 +337,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Audio/SFX
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Audio/SFX
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\holiday\Documents\GGj\GGJ20\RepairingMir
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: 282d0000
-    m_LastClickedID: 11560
-    m_ExpandedIDs: 00000000282d00004c2d0000642d00007c2d0000c22d0000dc2d0000122e00007c2e0000882e0000962f0000a42f0000cc2f0000d02f0000563000009c300000ae300000b4300000bc30000000ca9a3b
+    m_SelectedIDs: fe310000
+    m_LastClickedID: 12798
+    m_ExpandedIDs: 00000000282d0000782d0000b62d0000cc2d0000582e0000602f0000842f0000882f0000fc2f00004630000054300000f831000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -378,7 +378,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000282d00007c2d0000c22d0000dc2d00007c2e0000a42f0000cc2f0000d02f000056300000ae300000bc300000
+    m_ExpandedIDs: 00000000282d0000782d0000b62d0000cc2d0000582e0000602f0000842f0000882f0000fc2f00004630000054300000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -501,9 +501,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 2a320000
-      m_LastClickedID: 12842
-      m_ExpandedIDs: 76fbffff34320000
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 76fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -596,11 +596,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.04055727, y: -0.63055354, z: -0.033060804, w: 0.77438366}
     speed: 2
-    m_Value: {x: -0.040507518, y: -0.6317126, z: -0.03312151, w: 0.77343476}
+    m_Value: {x: 0.04055727, y: 0.63055354, z: 0.033060804, w: -0.77438366}
   m_Size:
-    m_Target: 61.27329
+    m_Target: 66.911964
     speed: 2
-    m_Value: 58.634727
+    m_Value: 64.03059
   m_Ortho:
     m_Target: 0
     speed: 2

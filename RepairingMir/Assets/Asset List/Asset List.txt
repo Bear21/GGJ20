@@ -1,0 +1,5 @@
+Skybox- https://assetstore.unity.com/packages/2d/textures-materials/sky/spaceskies-free-80503
+
+Planets- https://assetstore.unity.com/packages/vfx/shaders/customizable-planet-shaders-131872
+
+Astronaut Breathing- http://soundbible.com/143-Astronaut-Breathing.html
