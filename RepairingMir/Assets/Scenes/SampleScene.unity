@@ -240,11 +240,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 241700966}
   m_LocalRotation: {x: -0, y: -0.20456009, z: -0, w: 0.97885406}
-  m_LocalPosition: {x: 248, y: 60, z: -941}
+  m_LocalPosition: {x: 1189, y: -79, z: -961}
   m_LocalScale: {x: 139.86836, y: 139.86836, z: 139.86836}
   m_Children: []
   m_Father: {fileID: 1873666461}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: -23.607, z: 0}
 --- !u!135 &241700968
 SphereCollider:
@@ -332,11 +332,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 366633071}
   m_LocalRotation: {x: -0, y: -0.20456009, z: -0, w: 0.97885406}
-  m_LocalPosition: {x: 846, y: 120.63086, z: -1810}
+  m_LocalPosition: {x: 476, y: -61, z: -1208}
   m_LocalScale: {x: 139.86836, y: 139.86836, z: 139.86836}
   m_Children: []
   m_Father: {fileID: 1873666461}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: -23.607, z: 0}
 --- !u!135 &366633073
 SphereCollider:
@@ -428,7 +428,7 @@ Transform:
   m_LocalScale: {x: 139.86836, y: 139.86836, z: 139.86836}
   m_Children: []
   m_Father: {fileID: 1873666461}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: -23.607, z: 0}
 --- !u!135 &412610196
 SphereCollider:
@@ -520,7 +520,7 @@ Transform:
   m_LocalScale: {x: 139.86836, y: 139.86836, z: 139.86836}
   m_Children: []
   m_Father: {fileID: 1873666461}
-  m_RootOrder: 6
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: -23.607, z: 0}
 --- !u!135 &481798292
 SphereCollider:
@@ -703,7 +703,7 @@ Transform:
   m_LocalScale: {x: 139.86836, y: 139.86836, z: 139.86836}
   m_Children: []
   m_Father: {fileID: 1873666461}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: -23.607, z: 0}
 --- !u!135 &798739984
 SphereCollider:
@@ -777,7 +777,7 @@ GameObject:
   - component: {fileID: 917311745}
   - component: {fileID: 917311744}
   m_Layer: 0
-  m_Name: Planet_Earth
+  m_Name: Planet_Jupiter
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -795,7 +795,7 @@ Transform:
   m_LocalScale: {x: 139.86836, y: 139.86836, z: 139.86836}
   m_Children: []
   m_Father: {fileID: 1873666461}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: -23.607, z: 0}
 --- !u!135 &917311744
 SphereCollider:
@@ -952,7 +952,7 @@ GameObject:
   - component: {fileID: 1039282267}
   - component: {fileID: 1039282266}
   m_Layer: 0
-  m_Name: Sphere
+  m_Name: Planet_Earth
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1025,11 +1025,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1039282265}
   m_LocalRotation: {x: -0, y: -0.20456009, z: -0, w: 0.97885406}
-  m_LocalPosition: {x: -92.8, y: -19.7, z: -54.3}
+  m_LocalPosition: {x: -41.39537, y: -6.069145, z: -56.79919}
   m_LocalScale: {x: 139.86836, y: 139.86836, z: 139.86836}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_Father: {fileID: 1873666461}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: -23.607, z: 0}
 --- !u!1 &1698664996
 GameObject:
@@ -1058,11 +1058,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1698664996}
   m_LocalRotation: {x: -0, y: -0.20456009, z: -0, w: 0.97885406}
-  m_LocalPosition: {x: -1386.5953, y: 2, z: -240.49919}
+  m_LocalPosition: {x: -1386.5953, y: -137, z: -240.49919}
   m_LocalScale: {x: 139.86836, y: 139.86836, z: 139.86836}
   m_Children: []
   m_Father: {fileID: 1873666461}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: -23.607, z: 0}
 --- !u!135 &1698664998
 SphereCollider:
@@ -1150,6 +1150,7 @@ Transform:
   m_LocalPosition: {x: -51.404633, y: -13.630856, z: 2.4991913}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
+  - {fileID: 1039282269}
   - {fileID: 917311743}
   - {fileID: 241700967}
   - {fileID: 798739983}
@@ -1158,5 +1159,5 @@ Transform:
   - {fileID: 1698664997}
   - {fileID: 481798291}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
