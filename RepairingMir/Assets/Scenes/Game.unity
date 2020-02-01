@@ -239,13 +239,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 241700966}
-  m_LocalRotation: {x: -0, y: -0.20456009, z: -0, w: 0.97885406}
-  m_LocalPosition: {x: 1189, y: -79, z: -961}
-  m_LocalScale: {x: 139.86836, y: 139.86836, z: 139.86836}
+  m_LocalRotation: {x: -0, y: -0.32722038, z: -0, w: 0.94494814}
+  m_LocalPosition: {x: 3219, y: -846, z: 2100}
+  m_LocalScale: {x: 218.37648, y: 218.37648, z: 218.37648}
   m_Children: []
   m_Father: {fileID: 1873666461}
   m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: -23.607, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -38.2, z: 0}
 --- !u!135 &241700968
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -699,7 +699,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 798739982}
   m_LocalRotation: {x: -0, y: -0.20456009, z: -0, w: 0.97885406}
-  m_LocalPosition: {x: -372.59537, y: -76, z: -1437.4991}
+  m_LocalPosition: {x: -1827, y: 368, z: 1891}
   m_LocalScale: {x: 139.86836, y: 139.86836, z: 139.86836}
   m_Children: []
   m_Father: {fileID: 1873666461}
@@ -1132,19 +1132,19 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 141316, guid: 84cc3cd234dfc9d4d9d2e92c0eb0af75, type: 3}
       propertyPath: m_Name
-      value: Asteroid 2
+      value: Asteroid
       objectReference: {fileID: 0}
     - target: {fileID: 446090, guid: 84cc3cd234dfc9d4d9d2e92c0eb0af75, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -8.5431
+      value: -8.4976
       objectReference: {fileID: 0}
     - target: {fileID: 446090, guid: 84cc3cd234dfc9d4d9d2e92c0eb0af75, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -7.6124
+      value: -7.5965
       objectReference: {fileID: 0}
     - target: {fileID: 446090, guid: 84cc3cd234dfc9d4d9d2e92c0eb0af75, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -1.8146
+      value: -1.7269
       objectReference: {fileID: 0}
     - target: {fileID: 446090, guid: 84cc3cd234dfc9d4d9d2e92c0eb0af75, type: 3}
       propertyPath: m_LocalRotation.x
@@ -1180,15 +1180,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 446090, guid: 84cc3cd234dfc9d4d9d2e92c0eb0af75, type: 3}
       propertyPath: m_LocalScale.x
-      value: 4.1791377
+      value: 4.5743594
       objectReference: {fileID: 0}
     - target: {fileID: 446090, guid: 84cc3cd234dfc9d4d9d2e92c0eb0af75, type: 3}
       propertyPath: m_LocalScale.y
-      value: 4.1791377
+      value: 4.5743594
       objectReference: {fileID: 0}
     - target: {fileID: 446090, guid: 84cc3cd234dfc9d4d9d2e92c0eb0af75, type: 3}
       propertyPath: m_LocalScale.z
-      value: 4.1791377
+      value: 4.5743594
       objectReference: {fileID: 0}
     - target: {fileID: 2330530, guid: 84cc3cd234dfc9d4d9d2e92c0eb0af75, type: 3}
       propertyPath: m_Materials.Array.data[0]
