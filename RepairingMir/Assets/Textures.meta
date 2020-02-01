@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< refs/remotes/origin/master:RepairingMir/Assets/Textures.meta
 guid: dd0bde55cdf0b6f47a7e38e49dbcdcb6
+=======
+guid: 38d4701c9e2c611448dcbfb2801663f7
+>>>>>>> re:RepairingMir/Assets/Audio/music.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
