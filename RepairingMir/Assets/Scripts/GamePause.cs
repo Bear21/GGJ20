@@ -8,7 +8,7 @@ public class GamePause : MonoBehaviour
     // Start is called before the first frame update
     public void Paused()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1 );
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 2 );
     }
 
 
