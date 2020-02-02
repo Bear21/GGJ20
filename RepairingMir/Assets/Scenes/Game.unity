@@ -1803,7 +1803,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "goal:\ncomplete the objectives, repair the door and escape.\n\nhints:\ngentle
+  m_text: "goal: test\ncomplete the objectives, repair the door and escape.\n\nhints:\ngentle
     slow movements are the key to maintaining control of the player\n\ncontrols (xbox
     controller recommended)\ncontrol\t\t\t\t\t\t\txboxcontroller\t\t\t\tkeyboard\nforward
     thrust\t\t\t\t\tleft throttle\t\t\t\tw\nreverse thrust\t\t\t\t\tright throttle\t\t\t\ts\nstrafe
