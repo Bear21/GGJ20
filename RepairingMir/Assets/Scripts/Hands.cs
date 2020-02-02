@@ -8,6 +8,7 @@ public class Hands : MonoBehaviour
     private GameObject Selection;
     private bool HandsFull = false;
     private GameObject HeldObject = null;
+    public GameController gameController;
     // Start is called before the first frame update
     void Start()
     {
@@ -84,8 +85,11 @@ public class Hands : MonoBehaviour
 
                     HandsFull = false;
                     HeldObject.GetComponent<Collider>().enabled = false;
+                    gameController.DroppedItem(HeldObject);
                     HeldObject = null;
                     KillSelection();
+
+
                 }
             }
         }
