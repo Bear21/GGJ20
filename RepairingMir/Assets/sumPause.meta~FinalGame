@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:RepairingMir/Assets/Audio/Music.meta
 guid: 134ef7114071c414aafb880a5740c34e
+=======
+guid: 853ea571219f2884288222a2418c0bd3
+>>>>>>> FinalGame:RepairingMir/Assets/sumPause.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
